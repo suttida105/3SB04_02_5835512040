@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cardview_contents">เช้าวันหนึ่งแม่ปูพาลูกๆออกมาเดินหาอาหารที่ชายหาด แม่ปูเห็นลูกปูเดินเฉไปเฉมาไม่เป็นระเบียบจึงบอกลูกปูว่า
+        <font fgcolor="#000099">"ลูก ๆ จ๋า เดินแบบนี้ไม่สวยเลยนะจ๊ะ ไหนลองเดินตรง ๆ หน่อยซิ"</font>ลูกปูจึงพูดกับแม่ว่า
+         <font fgcolor="#FF0033">"ถ้าอย่างนั้นแม่ช่วยเดินให้พวกหนูดูหน่อยสิคะ พวกหนูจะได้เดินตาม"</font>แม่ปูจึงเดินให้ลูกดู แต่มันก็ไม่สามารถเดินให้ตรงได้เช่นเดียวกันหลังจากวันนั้น แม่ปูจึงไม่กล้าสอนลูกในสิ่งที่ตนทำไม่ได้อีกเลย...</string>
+    <string name="cardview_radius_seekbar_text"><font fgcolor="#000000">Radius :</font></string>
+    <string name="cardview_elevation_seekbar_text"><font fgcolor="#000000">Elevation :</font></string>
+</resources>
+
+
